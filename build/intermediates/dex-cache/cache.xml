@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.1_5a02b9508000c11cc49b12e6d0de1be97fa11732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.1_30a7e6e24b09d141797b78346a5485c08f012d18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_f03f9d0965ec4a48f1edfdf180a98b1398eef7a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_24588056bb7ea35d88c5128a9ceb2df59e1ede86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_22c16d933dbe4cb6a1058863132ad15791cc159b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.3.1_5a708c71e0e97f7b16774f63826b5f9854843b70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.11_67eac55f419b44691ad3f832764be1e3db792704/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_87147e3f64c2656fc18e3b3e111123edd3c9546e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.1_565b8b2c6348826e59e7d4fe2c8f7316d3c61dbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.1_2d7ad26c102d2ec4d24fcab6ea21bf8c85a62423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.1_d1a935a910cfafdf2aef93fee16c180c6fb0eb54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.1_a506ca8fa616f6baaba0a04f298e37d0e0e9494b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.3.1_e49511c20555c1605ce8782831e2c4e898da7e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.1_149abd165db912b69487445d5f3d9aaa9553aea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_c59ec44a46eed7f00729b8983e82d5d236215a42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2485a4d9357967fb69ff9ac323ca0e778c2c22fb">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-0.4.3_a4e8268f55c7e7c48885d520ff4387b382985daf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.1_9d3dda9b02a29335dcf96a9ff144efddccd5c150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-storage/0.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-storage-0.6.0_650ba4da456720341ce3949a9a01511cf35a8921/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_b76a15e64aa3d97fa006636d741e6e72409f4e24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_46baae53228997f393ebebe9324d30122a0591ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_54fc35718f938171cb169ab82c7b24329c2e5b31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_7188e0ed68c4ea1d139b1064de7790a88e73f7ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7508574b5ec6b256058f2164eabccfe7a95a6f2b">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_af557b1c3c13a644949e7e748de3632bc077cbb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.1_2d2e74b0fe0bdaaebc70fd40f03e34e7857da3f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.1_f6d712bbc080e36c46a6a3bcd6a41e7356a0bd2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.1_cf39d5f3e2b8019407320043bee5136ee9c4200b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_52b0b50d4cf273dfa72deee93bd6176a9d593c74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.2.1_5819cffa33adb86c1fa83816871719f97ffc945a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_26d2db383bdaa26869b50a36a45594da02f12efb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_c270be6d6716d80f6ad20a71b0af7f97fdd7b63c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.1_4399be815df990cffe9d53d30b62fc464cfe13a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.4.0_b143f37b904c9bcbb523f6d1b337158ee086c8f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734f779fc6347fe6932ae0ae510f958aadf55e45">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.4.3_3ba5b8023ef455677ecc2e1308433f5c351a246e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_572993cab3627825b8d2223a572269215986e939/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="673a174d02856a9333d1671fa19b2fb74f880e01">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ac9b81d8dcb172777561d71bdbe10bf9aa70068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_d37ce0c6f8a35a7f4f7e36227f53a636f2787ce0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_2cf4f10cb87dcc47cc99e688c851c2e6a488550f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_23012998509ab679909feed2a3e921e1599fbc12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.1_2ac185e069a5244de69836767e9221e430636db0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_1903302009695e13e1fce5f8f4f06ceedd6f974d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.1_22a50b5addb9cc90f8162b3741de71789e6e33dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_c58b49c40e85ead91103bc365bbee113077e54a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.11.0_189379a3c001016fa6d5ad3336c04136e54c4fbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_a126cc6049161c8370e0db29ab38fc1fa36801f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.1_f9488e4f0edb0cefa1fa10de2ea6bf382f3a1c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_dac24ca5638d560b453d8495ff771b2151d66714/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.2.1_f567ab10595eeca6a880af76de26500b1d5121c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nupur/Desktop/MyShop/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.4.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="647502c39ed7ca9bbf22c22d0015c77e0d06e317">
+        <dex dex="/Users/nupur/Desktop/MyShop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-auth-0.4.3_869ff022196d3f84ce7bfe5787a7c23ac72832e2/classes.dex" />
+    </item>
+
+</items>

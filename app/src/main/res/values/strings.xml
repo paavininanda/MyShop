@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyShop</string>
+    <string name="OwnerEmailId">nupurbaghel@gmail.com</string>
+    <string name="OwnerPass">gmailpass</string>
+    <string name="firebaseUrl">https://my-shop-93286.firebaseio.com</string>
+</resources>

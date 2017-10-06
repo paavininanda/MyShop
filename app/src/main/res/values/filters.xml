@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="criteria">
+        <item>None</item>
+        <item>Lowest Price First</item>
+        <item>Highest Price First</item>
+        <item>Lowest Discount First</item>
+        <item>Highest Discount First</item>
+        <item>Chose Color</item>
+        <item>Chose Material</item>
+        <item>Chose Make</item>
+    </string-array>
+
+    <string-array name="filter_price">
+        <item>None</item>
+        <item>Lowest First</item>
+        <item>Highest First</item>
+    </string-array>
+
+    <string-array name="filter_discount">
+        <item>None</item>
+        <item>More</item>
+        <item>Less</item>
+    </string-array>
+
+    <string-array name="filter_quality">
+        <item>None</item>
+        <item>excellent</item>
+        <item>medium</item>
+        <item>average</item>
+    </string-array>
+
+
+</resources>

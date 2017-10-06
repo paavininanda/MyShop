@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "93086535124",
+    "firebase_url": "https://my-shop-93286.firebaseio.com",
+    "project_id": "my-shop-93286",
+    "storage_bucket": "my-shop-93286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93086535124:android:3c58bbf5626f9718",
+        "android_client_info": {
+          "package_name": "com.nupurbaghel.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93086535124-4g1hrqeirufg51sfok8prt1dtg2r6cv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATbo_RojXkyONWwVgrsrFv_HWOW9Wk-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
